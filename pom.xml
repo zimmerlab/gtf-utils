@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.kleinsamuel</groupId>
+    <groupId>com.github.zimmerlab</groupId>
     <artifactId>gtf-utils</artifactId>
     <version>0.7</version>
 
@@ -18,7 +18,7 @@
         <repository>
             <id>github</id>
             <name>GTF Utils</name>
-            <url>https://maven.pkg.github.com/kleinsamuel/gtf-utils</url>
+            <url>https://maven.pkg.github.com/zimmerlab/gtf-utils</url>
         </repository>
     </distributionManagement>
 
